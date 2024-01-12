@@ -1,0 +1,18 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/coin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melvin Paul",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "color": "^4.2.3",
+    "commander": "^11.1.0",
+    "inquirer": "^9.2.12"
+  }
+}
