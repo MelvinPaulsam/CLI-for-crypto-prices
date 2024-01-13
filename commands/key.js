@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const colors = require('colors');
-const KeyManager = require('../lib/KeyManager.js');
+const KeyManager = require('../lib/KeyManager');
 const { isRequired } = require('../utils/validation');
 
 const key = {
